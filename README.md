@@ -19,24 +19,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+****
+# Detecção de fraudes bancárias utilizando IA generati
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta uma breve descrição sobre o uso de ferramentas de IA, na prevenção, combate e deteção de fraudes no setor bancário.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizada a ferramenta: https://app.heygen.com/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo consiste basicamente em criar uma vídeo - aula de 1 minuto e 22 segundos, sobre prevençao de fraudes bancárias.Foi utilizado o Chatgpt e criado um avatar e inserido o texto sobre o assunto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto trás como resultado, dar ciência ao público, sobre as ferramentas atuais de combate às fraudes em instituições financeiras. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A reflexão que fica é que as ferramentas podem ser usadas para o bem ou para o mal, vai depender de cada cidadão. 
 
 ### Exemplos e Insigths
 
